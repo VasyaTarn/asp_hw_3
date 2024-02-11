@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfNoteModel xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <NoteModel>
+    <Name>Title1</Name>
+    <Text>Text1</Text>
+    <Date>2024-02-11T17:14:41.8012426+02:00</Date>
+    <Tags>
+      <string>tag1</string>
+      <string>tag2</string>
+    </Tags>
+  </NoteModel>
+  <NoteModel>
+    <Name>Title2</Name>
+    <Text>Text2</Text>
+    <Date>2024-02-11T17:14:41.8014092+02:00</Date>
+    <Tags>
+      <string>tag3</string>
+      <string>tag4</string>
+    </Tags>
+  </NoteModel>
+</ArrayOfNoteModel>
